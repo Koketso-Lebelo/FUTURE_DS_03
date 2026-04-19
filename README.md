@@ -14,7 +14,7 @@ This project identifies major drop-off points, measures conversion efficiency, h
 - Determine which categories and brands drive the highest revenue
 - Provide data-driven strategies to improve conversion rates
 
-## 📊 Dataset
+##  Dataset
 
 **Dataset Used:** eCommerce behavior data from a multi-category online store  
 **Link:** [eCommerce Events History in Cosmetics Shop](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
